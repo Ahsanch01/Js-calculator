@@ -1,0 +1,30 @@
+#header{
+    background-color: blueviolet;
+    color: white;
+    font-size: large;
+    padding: 5px;
+}
+.h1{
+    text-align: center;
+    
+    
+}
+.fail{
+    background-color: red;
+    color: white;
+}
+.pass{
+    background-color: green;
+    color: white;
+}
+#p{
+    background-color:blueviolet ;
+    color: white;
+}
+#back{
+    background-color: blueviolet;
+    color: white;
+}
+.cntr{
+    text-align: center;
+}
